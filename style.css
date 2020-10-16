@@ -1,0 +1,40 @@
+body,
+html {
+	background: url(bg.png) no-repeat center center fixed;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	text-align: center;
+	color: floralwhite;
+}
+
+body{
+	padding:25px;
+}
+.btn:hover{
+	background-color: gray;
+	border-color:green;
+	height:50px;
+	width:200px;
+	color:navy;
+	border-width:3px;
+}
+h1 {
+	text-align: center;
+	margin: 150px auto 50px;
+    font-size: 4rem;
+    color: palevioletred;
+}
+
+h2 {
+	text-align: center;
+    margin: 50px auto 50px;
+    color: green;
+}
+
+footer {
+	margin: 50px;
+    font-size: 2rem;
+    color: black;
+}
